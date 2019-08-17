@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="parameter">
+   <test name="parameter_test">
+     <parameter name="app_url" value="https://www.facebook.com/"/>
+     <parameter name="fstnm" value="//input[@id='u_0_l']"/>
+     <parameter name="lstnm" value="//input[@id='u_0_n']"/>
+     <parameter name="IP_FN" value="basha"/> 
+     <parameter name="IP_LN" value="sk"/>
+     
+     <classes>
+             <class name="TestNG.Parameter_"/>
+     </classes>
+   
+   </test>
+
+
+</suite>

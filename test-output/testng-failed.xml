@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [parameter]">
+  <parameter name="IP_LN" value="sk"/>
+  <parameter name="app_url" value="https://www.facebook.com/"/>
+  <parameter name="fstnm" value="//input[@id=&#039;u_0_l&#039;]"/>
+  <parameter name="IP_FN" value="basha"/>
+  <parameter name="lstnm" value="//input[@id=&#039;u_0_n&#039;]"/>
+  <test name="parameter_test">
+    <parameter name="IP_LN" value="sk"/>
+    <parameter name="app_url" value="https://www.facebook.com/"/>
+    <parameter name="fstnm" value="//input[@id=&#039;u_0_l&#039;]"/>
+    <parameter name="IP_FN" value="basha"/>
+    <parameter name="lstnm" value="//input[@id=&#039;u_0_n&#039;]"/>
+    <classes>
+      <class name="TestNG.Parameter_"/>
+    </classes>
+  </test> <!-- parameter_test -->
+</suite> <!-- Failed suite [parameter] -->

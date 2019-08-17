@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="default_suite">
+ 
+ <test name="test1" verbose="2">
+    <classes>
+       <class name="TestNG.Class_A"/>
+       <class name="TestNG.Class_B"/>
+       <class name="TestNG.Class_C"/>
+    
+    
+    
+    
+    
+    
+    </classes>
+
+ 
+ </test>
+
+
+</suite>
